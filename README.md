@@ -1,7 +1,7 @@
 # Olá! Eu sou Brenda Amaral!
 
 <div style: "display: inline_block">
-  <img align="right" alt="Breh-Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-amaral-710641209/"/>
+  <a href="linkedin.com/in/brenda-amaral-710641209/" target="_blank"><img align="right" alt="Breh-Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-amaral-710641209/" target="_blank"/></a>
 </div><br>
 
 :mortar_board: Formação: Ciência da Computação
