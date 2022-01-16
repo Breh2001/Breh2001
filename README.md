@@ -13,6 +13,8 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=onedark"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=onedark"/>
 </div>
+
+###
   
 <div style: "display: inline_block">
   <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=JavaScript&logoColor=white&color=yellow"/>
@@ -32,5 +34,3 @@
   <img align="center" alt="Breh-Ai" src="https://img.shields.io/badge/-Illustrator-blue?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
   <img align="center" alt="Breh-Pr" src="https://img.shields.io/badge/-Premiere-blue?style=flat&logo=adobepremierepro&logoColor=white&color=blueviolet"/>
 </div>
-  
-##
