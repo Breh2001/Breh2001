@@ -2,7 +2,6 @@
 
 <div style: "display: inline_block">
   <img align="right" alt="Breh-Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-amaral-710641209/"/>
-  <img align="right" alt="Breh-Gmail" src="https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white&color=red"/>
 </div><br>
 
 :mortar_board: Formação: Ciência da Computação
