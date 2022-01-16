@@ -19,7 +19,8 @@
   <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=JavaScript&logoColor=white&color=yellow"/>
   <img align="center" alt="Breh-HTML" src="https://img.shields.io/badge/-HTML5-blue?style=flat&logo=HTML5&logoColor=white&color=important"/>
   <img align="center" alt="Breh-CSS" src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white&color=blue"/>
-  <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Visualbasic.Net-blue?style=flat&logo=Vb.net&logoColor=white&color=blueviolet"/>
+  <img align="center" alt="Breh-VB" src="https://img.shields.io/badge/-Visualbasic.Net-blue?style=flat&logo=Vb.net&logoColor=white&color=blueviolet"/>
+  <img align="center" alt="Breh-Csharp" src="https://img.shields.io/badge/-Csharp-blue?style=flat&logo=Csharp&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-Git" src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white&color=orange"/>
   <img align="center" alt="Breh-VS" src="https://img.shields.io/badge/-VisualStudio-blue?style=flat&logo=visualstudio&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
