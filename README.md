@@ -11,8 +11,8 @@
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=onedark"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=bear"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=bear"/>
 </div>
   
 <div style: "display: inline_block">
