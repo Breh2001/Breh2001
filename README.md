@@ -32,3 +32,5 @@
   <img align="center" alt="Breh-Ai" src="https://img.shields.io/badge/-Illustrator-blue?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
   <img align="center" alt="Breh-Pr" src="https://img.shields.io/badge/-Premiere-blue?style=flat&logo=adobepremierepro&logoColor=white&color=blueviolet"/>
 </div>
+
+![Snake animation](https://github.com/Breh2001/Breh2001/blob/output/github-contribution-grid-snake.svg)
