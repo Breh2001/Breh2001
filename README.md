@@ -9,6 +9,8 @@
 
 :computer: Em busca de crescer na carreira de Desenvolvedora Full Stack.
 
+:woman_technologist: Atualmente me aprimorando em JavaScript! :heart_eyes:
+
 <div><br>
   <a href="https://github.com/Breh2001/"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=bear"/>
