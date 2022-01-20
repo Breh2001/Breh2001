@@ -23,7 +23,7 @@
   
  <a href="url"><img src="https://i.pinimg.com/564x/04/da/8d/04da8dbc58d5b8678bfcbd91f53f3ea0.jpg" align="left" width="300cm" ></a>
   
-### Linguagens:
+###
   
 <div style: "display: inline_block">
   <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=JavaScript&logoColor=white&color=yellow"/>
