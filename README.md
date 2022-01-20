@@ -11,12 +11,19 @@
 
 :woman_technologist: Atualmente me aprimorando em JavaScript! :heart_eyes:
 
-
 <div><br>
   <a href="https://github.com/Breh2001/"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=bear"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=bear"/>
 </div>
+
+##
+
+<div>
+  
+ <a href="url"><img src="https://i.pinimg.com/564x/04/da/8d/04da8dbc58d5b8678bfcbd91f53f3ea0.jpg" align="left" width="300cm" ></a>
+  
+### Linguagens:
   
 <div style: "display: inline_block">
   <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=JavaScript&logoColor=white&color=yellow"/>
@@ -36,6 +43,7 @@
   <img align="center" alt="Breh-Ae" src="https://img.shields.io/badge/-AfterEffects-blue?style=flat&logo=adobeaftereffects&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-Ai" src="https://img.shields.io/badge/-Illustrator-blue?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
   <img align="center" alt="Breh-Pr" src="https://img.shields.io/badge/-Premiere-blue?style=flat&logo=adobepremierepro&logoColor=white&color=blueviolet"/>
+</div>
 </div>
 
 ![Snake animation](https://github.com/Breh2001/Breh2001/blob/output/github-contribution-grid-snake.svg)
