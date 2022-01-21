@@ -32,8 +32,6 @@
   <img align="center" alt="Breh-VB" src="https://img.shields.io/badge/-VisualBasic.Net-blue?style=flat&logo=visualbasic&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-Csharp" src="https://img.shields.io/badge/-Csharp-blue?style=flat&logo=Csharp&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-Git" src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white&color=orange"/>
-  <img align="center" alt="Breh-VS" src="https://img.shields.io/badge/-VisualStudio-blue?style=flat&logo=visualstudio&logoColor=white&color=blueviolet"/>
-  <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
 </div>
 
 ### Editores de código que mais uso:
