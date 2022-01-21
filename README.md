@@ -21,7 +21,7 @@
 
 <div>
   
- <a href="url"><img src="https://i.pinimg.com/564x/04/da/8d/04da8dbc58d5b8678bfcbd91f53f3ea0.jpg" align="left" width="300cm" ></a>
+ <a href="url"><img src="https://i.pinimg.com/564x/04/da/8d/04da8dbc58d5b8678bfcbd91f53f3ea0.jpg" align="left" width="280cm" ></a>
   
 ###
   
