@@ -35,6 +35,13 @@
   <img align="center" alt="Breh-VS" src="https://img.shields.io/badge/-VisualStudio-blue?style=flat&logo=visualstudio&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
 </div>
+
+### Editores de código que mais uso:
+
+<div style: "display: inline_block">
+  <img align="center" alt="Breh-VS" src="https://img.shields.io/badge/-VisualStudio-blue?style=flat&logo=visualstudio&logoColor=white&color=blueviolet"/>
+  <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
+</div>
   
 ### Também utilizo:
   
