@@ -7,9 +7,7 @@
 
 :mortar_board: Formação: Ciência da Computação
 
-:computer: Em busca de crescer na carreira de Desenvolvedora Full Stack.
-
-:woman_technologist: Atualmente me aprimorando em JavaScript! :heart_eyes:
+:woman_technologist: Cursando Pós-Graduação em Desenvolvimento Web Full Stack!
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
