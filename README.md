@@ -26,12 +26,15 @@
   
 <div style: "display: inline_block">
   <img align="center" alt="Breh-Js" src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=JavaScript&logoColor=white&color=yellow"/>
+  <img align="center" alt="Breh-Ts" src="https://img.shields.io/badge/-Typescript-blue?style=flat&logo=TypeScript&logoColor=white&color=blue"/>
+  <img align="center" alt="Breh-React" src="https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white&color=9cf"/>
   <img align="center" alt="Breh-HTML" src="https://img.shields.io/badge/-HTML-blue?style=flat&logo=HTML&logoColor=white&color=important"/>
   <img align="center" alt="Breh-CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS&logoColor=white&color=blue"/>
   <img align="center" alt="Breh-Java" src="https://img.shields.io/badge/-Java-blue?style=flat&logo=java&logoColor=white&color=yellow"/>
   <img align="center" alt="Breh-Csharp" src="https://img.shields.io/badge/-Csharp-blue?style=flat&logo=Csharp&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-VB" src="https://img.shields.io/badge/-VisualBasic.Net-blue?style=flat&logo=visualbasic&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-Git" src="https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white&color=orange"/>
+  <img align="center" alt="Breh-Sass" src="https://img.shields.io/badge/-Sass-blue?style=flat&logo=Sass&logoColor=white&color=ff69b4"/>
 </div>
 
 ### Editores de código que mais uso:
