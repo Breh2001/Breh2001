@@ -7,7 +7,7 @@
 
 :mortar_board: Formação: Ciência da Computação
 
-:woman_technologist: Cursando Pós-Graduação em Desenvolvimento Web Full Stack
+:woman_technologist: Pós-Graduação: Desenvolvimento Web Full Stack
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
