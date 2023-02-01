@@ -7,19 +7,17 @@
 
 :mortar_board: Formação: Ciência da Computação
 
-:woman_technologist: Pós-Graduação: Desenvolvimento Web Full Stack
+:woman_technologist: Profissão: Desenvolvedora de Software
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=bear"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=bear"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=swift"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=swift"/>
 </div>
 
 ##
 
 <div>
-  
- <a href="url"><img src="https://i.pinimg.com/564x/04/da/8d/04da8dbc58d5b8678bfcbd91f53f3ea0.jpg" align="left" width="270cm" ></a>
   
 ###
   
@@ -42,15 +40,6 @@
 <div style: "display: inline_block">
   <img align="center" alt="Breh-VS" src="https://img.shields.io/badge/-VisualStudio-blue?style=flat&logo=visualstudio&logoColor=white&color=blueviolet"/>
   <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
-</div>
-  
-### Também utilizo:
-  
-<div style: "display: inline_block">
-  <img align="center" alt="Breh-Ps" src="https://img.shields.io/badge/-Photoshop-blue?style=flat&logo=adobephotoshop&logoColor=white&color=blue"/>
-  <img align="center" alt="Breh-Ae" src="https://img.shields.io/badge/-AfterEffects-blue?style=flat&logo=adobeaftereffects&logoColor=white&color=blueviolet"/>
-  <img align="center" alt="Breh-Ai" src="https://img.shields.io/badge/-Illustrator-blue?style=flat&logo=adobeillustrator&logoColor=white&color=orange"/>
-  <img align="center" alt="Breh-Pr" src="https://img.shields.io/badge/-Premiere-blue?style=flat&logo=adobepremierepro&logoColor=white&color=blueviolet"/>
 </div>
 </div>
 
