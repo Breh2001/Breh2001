@@ -7,7 +7,7 @@
 
 :mortar_board: Formação: Ciência da Computação
 
-:woman_technologist: Profissão: Desenvolvedora de Software
+:woman_technologist: Profissão: Desenvolvedora de Software Júnior
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
