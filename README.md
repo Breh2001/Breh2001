@@ -3,7 +3,7 @@
 ## Olá! Eu sou Brenda Amaral!
 
 <div style: "display: inline_block">
-  <a href="https://www.linkedin.com/in/brenda-amaral-710641209/" target="_blank"><img align="right" alt="Breh-Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-amaral-710641209/" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brenda-vitória-do-amaral-710641209/" target="_blank"><img align="right" alt="Breh-Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenda-amaral-710641209/" target="_blank"></a>
   <a href="mailto:brendaamaral2001@gmail.com"><img align="right" alt="Breh-Gmail" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white&link=brendaamaral2001@gmail.com" target="_blank"></a>
 </div>
 
