@@ -44,5 +44,3 @@
   <img align="center" alt="Breh-VSCode" src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=informational"/>
 </div>
 </div>
-
-![Snake animation](https://github.com/Breh2001/Breh2001/blob/output/github-contribution-grid-snake.svg)
