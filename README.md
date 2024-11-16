@@ -9,12 +9,12 @@
 
 :mortar_board: Formação: Ciência da Computação
 
-:woman_technologist: Profissão: Desenvolvedora de Software Júnior
+:woman_technologist: Profissão: Analista e Desenvolvedora de Software Júnior
 
 <div><br>
   <a href="https://github.com/Breh2001/"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=swift"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=swift"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Breh2001&show_icons=true&theme=radical"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breh2001&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ##
